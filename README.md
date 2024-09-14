@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @SEYHA-PUIT
-- 👀 I’m interested in Web Deverlopment Carrer
-- 🌱 I’m currently learning in Computer Science at RUPP Cambodia
+- 👀 I’m interested in Web Deverlopment and Software Engineering Carrer
+- 🌱 I’m currently learning in Computer Science at Royal University Of Phnom Penh
 - 💞️ I’m looking to collaborate on New Challenge Project for research
 - 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: DK7
 - ⚡ Fun fact: ...
 
 <!---
